@@ -20,6 +20,7 @@ A modern React-based application that allows users to track real-time stock pric
 
 ## 📂 Folder Structure
 
+```bash
 /src
 ├── components
 │ ├── layout/Navbar.js
@@ -39,6 +40,7 @@ A modern React-based application that allows users to track real-time stock pric
 ├── utils/
 │ └── formatters.js
 └── App.js
+```
 
 ## 🚀 Getting Started
 
@@ -51,7 +53,9 @@ cd stock-tracker-app
 
 ### 2. Install dependenciesxs
 
+```bash
 npm install
+```
 
 ### 3. Configure your API key
 
@@ -62,12 +66,15 @@ VITE_API_KEY=your_api_key_here
 
 ### 4. Start the development server
 
+```bash
 npm run dev
-Open your browser at http://localhost:5173.
+```
 
 ## 📦 Build for Production
 
+```bash
 npm run build
+```
 
 ## 🤝 Contributing
 
