@@ -49,38 +49,28 @@ git clone https://github.com/your-username/stock-tracker-app.git
 cd stock-tracker-app
 ```
 
-### 2. Install dependencies
+### 2. Install dependenciesxs
 
-bash
-Copy
-Edit
 npm install
 
 ### 3. Configure your API key
 
 Create a .env file in the root of your project and add your stock market API key:
 
-env
-Copy
-Edit
 VITE_API_KEY=your_api_key_here
 💡 You can get a free API key from services like Alpha Vantage or Finnhub.
 
 ### 4. Start the development server
 
-bash
-Copy
-Edit
 npm run dev
 Open your browser at http://localhost:5173.
 
 ## 📦 Build for Production
 
-bash
-Copy
-Edit
 npm run build
-🤝 Contributing
+
+## 🤝 Contributing
+
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-## Made with ❤️ by Bruno Fernandes
+### Made with ❤️ by Bruno Fernandes
